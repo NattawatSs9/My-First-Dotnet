@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{1FBCC00A-7583-4733-8BF9-86F809B63088}|FIrsttime">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FIrsttime/Controllers/TestController.cs">
+    <Files>
+      <File FileName="FIrsttime/Startup.cs" Line="31" Column="122" />
+      <File FileName="FIrsttime/Controllers/TestController.cs" Line="131" Column="39" />
+      <File FileName="FIrsttime/Program.cs" />
+      <File FileName="FIrsttime/mono_crash.11a67480d0.0.json" />
+      <File FileName="FIrsttime/Properties/launchSettings.json" />
+      <File FileName="FIrsttime/appsettings.json" />
+      <File FileName="FIrsttime/appsettings.Development.json" />
+      <File FileName="../../Library/Caches/VisualStudio/8.0/Symbols/mysql-net/MySqlConnector/d1507f03a01f6642fbcf5f03e1723e56813cec51/src/MySqlConnector/MySqlCommand.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="First" expanded="True">
+            <Node name="First" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="TestController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.First PreferredExecutionTarget="/Applications/Microsoft Edge.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <Debugger.DebugSourceFolders>
+    <String>/Users/nattawat/Library/Caches/VisualStudio/8.0/Symbols/mysql-net/MySqlConnector/d1507f03a01f6642fbcf5f03e1723e56813cec51</String>
+  </Debugger.DebugSourceFolders>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
